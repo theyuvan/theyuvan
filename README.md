@@ -36,4 +36,50 @@
 
 ---
 
+## TECH ARSENAL
+
+<div align="center">
+
+### 💻 Core Programming Languages
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=363636)
+![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge&logo=aptos&logoColor=3FB68B)
+
+### 🎨 Frontend Stack
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6) 
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+
+### ⚙️ Backend & DevOps Stack
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) 
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E) 
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) 
+
+### ⛓️ Web3 & Decentralized Protocols
+![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF)
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=F16822)
+![Polygon](https://img.shields.io/badge/Polygon-000000?style=for-the-badge&logo=polygon&logoColor=8247E5)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=FFF100)
+![MetaMask](https://img.shields.io/badge/MetaMask-000000?style=for-the-badge&logo=metamask&logoColor=F6851B)
+![Chainlink](https://img.shields.io/badge/Chainlink-000000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+
+### 🔧 Development Tools 
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033) 
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=FF0000)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E) 
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=00C4CC)
+
+---
+
 
