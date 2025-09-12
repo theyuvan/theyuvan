@@ -80,6 +80,8 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
+<img alt="Blockchain Hacker GIF" width="480" height="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
 </div>
 
 ---
@@ -109,10 +111,15 @@
 ## ACTIVITY GRAPH
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuvan&custom_title=YUVAN'S%20GITHUB%20ACTIVITY&bg_color=0A0A0A&color=FF6B35&line=C77DFF&point=FFFFFF&area_color=7209B7&title_color=FF6B35&area=true)
 
 </div>
 
 ---
+
 
