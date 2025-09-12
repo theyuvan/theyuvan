@@ -106,3 +106,13 @@
 
 ---
 
+## ACTIVITY GRAPH
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuvan&custom_title=YUVAN'S%20GITHUB%20ACTIVITY&bg_color=0A0A0A&color=FF6B35&line=C77DFF&point=FFFFFF&area_color=7209B7&title_color=FF6B35&area=true)
+
+</div>
+
+---
+
