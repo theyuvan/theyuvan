@@ -122,4 +122,19 @@
 
 ---
 
+<div align="center">
 
+**"In a world of centralized systems, be the one who codes the decentralized revolution."** 
+
+*Thank you for accessing my digital fortress! Don't forget to star ⭐ the repositories that are building the future!*
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yuvan-raj/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yuvan.r2005@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/theyuvannnn)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/channels/@me)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/theyuvann)
+
+</div>
+
+---
