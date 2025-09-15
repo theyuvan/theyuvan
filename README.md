@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=theyuvan&style=for-the-badge&color=purple&label=Profile%20Views)](https://github.com/theyuvan)
+![Profile Views](https://komarev.com/ghpvc/?username=theyuvan&style=for-the-badge&color=blueviolet&label=Profile%20Views)
 [![Followers](https://img.shields.io/github/followers/theyuvan?style=for-the-badge&logo=github&color=FF6B35&labelColor=7209B7&label=Followers)](https://github.com/theyuvan?tab=followers)
 
 </div>
@@ -59,7 +59,7 @@
 ### ⚙️ Backend & DevOps Stack
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) 
+![RestAPI](https://img.shields.io/badge/RestAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E) 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) 
@@ -68,10 +68,11 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF)
 ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=F16822)
-![Polygon](https://img.shields.io/badge/Polygon-000000?style=for-the-badge&logo=polygon&logoColor=8247E5)
+![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=FFFFFF)
 ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=FFF100)
 ![MetaMask](https://img.shields.io/badge/MetaMask-000000?style=for-the-badge&logo=metamask&logoColor=F6851B)
 ![Chainlink](https://img.shields.io/badge/Chainlink-000000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+
 
 ### 🔧 Development Tools 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033) 
@@ -79,6 +80,8 @@
 ![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=FF0000)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=00C4CC)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 <img alt="Blockchain Hacker GIF" width="480" height="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
