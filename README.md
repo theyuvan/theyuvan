@@ -29,8 +29,8 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=theyuvan&style=for-the-badge&color=blueviolet&label=Profile%20Views)
 [![Followers](https://img.shields.io/github/followers/theyuvan?style=for-the-badge&logo=github&color=FF6B35&labelColor=7209B7&label=Followers)](https://github.com/theyuvan?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=theyuvan&style=for-the-badge&color=blueviolet&label=Profile%20Views)
 
 </div>
 
@@ -59,7 +59,7 @@
 ### ⚙️ Backend & DevOps Stack
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![RestAPI](https://img.shields.io/badge/RestAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) 
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=009688)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E) 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) 
