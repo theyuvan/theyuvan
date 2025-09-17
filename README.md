@@ -93,13 +93,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theyuvan&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&icon_color=C77DFF&text_color=FFFFFF&include_all_commits=true&count_private=true&token=${{ secrets.GITHUB_STATS_TOKEN }}"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theyuvan&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&icon_color=C77DFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
 </div>
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=theyuvan&theme=radical&hide_border=true&background=0A0A0A&stroke=FF6B35&ring=C77DFF&fire=FF6B35&currStreakLabel=7209B7&token=${{ secrets.GITHUB_STATS_TOKEN }}"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=theyuvan&theme=radical&hide_border=true&background=0A0A0A&stroke=FF6B35&ring=C77DFF&fire=FF6B35&currStreakLabel=7209B7"/>
 
 </div>
 
